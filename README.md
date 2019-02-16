@@ -1,5 +1,4 @@
-# Sharkbyte-alternate-Website-user-browser
-Alternate browser for services.sharkbyte.bplaed.net
+
 
 - [DOWNLOAD INSTALLER](https://github.com/Sharkbyteprojects/Sharkbyte-alternate-Website-user-browser/releases/download/PRE_RELEASE/SHARKAPP.exe)
 - [DOWNLOAD OPEN PGP SIGNATURE](http://assets.sharkbyte.bplaced.net/browser%20signatures/SHARKAPP.exe.sig)
