@@ -1,0 +1,15 @@
+{
+  "name": "Sharkapp",
+  "version": "1.0.0",
+  "description": "Acess to SHArkSERVICES on all computers",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sharkbyteprojects",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^4.0.4",
+    "electron-packager": "^13.0.1"
+  }
+}
